@@ -120,12 +120,14 @@ https://dharmendra-9450.github.io/ev-analytics-dashboard/
 
 ---
 
-# 👨‍💻 Team Members
+## 👨‍💻 Team Members
 
-- Dharmendra Patel
-- Devesh Kumar Mishra
-- Krishna Kant Gupta
-- Himanshu Chaudary
+| Name | Role |
+|-----|-----|
+| **Dharmendra Patel** | Project Developer |
+| **Devesh Kumar Mishra(Lead)** | Data Collection |
+| **Krishna Kant Gupta** | Data Analysis |
+| **Himanshu Chaudary** | Visualization Support |
 
 ---
 
