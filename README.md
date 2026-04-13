@@ -127,7 +127,7 @@ https://dharmendra-9450.github.io/ev-analytics-dashboard/
 | **Dharmendra Patel** | Project Developer |
 | **Devesh Kumar Mishra(Lead)** | Data Collection |
 | **Krishna Kant Gupta** | Data Analysis |
-| **Himanshu Chaudary** | Visualization Support |
+| **Himanshu Chaudhary** | Visualization Support |
 
 ---
 
